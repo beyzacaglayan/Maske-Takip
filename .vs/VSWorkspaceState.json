@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business",
+    "\\Business\\Abstract",
+    "\\Business\\Conctrete",
+    "\\Entities",
+    "\\Entities\\Concrete",
+    "\\WorkAround"
+  ],
+  "SelectedNode": "\\Business\\Abstract\\SupplierService.cs",
+  "PreviewInSolutionExplorer": false
+}
